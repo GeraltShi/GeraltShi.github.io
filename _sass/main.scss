@@ -83,6 +83,33 @@ body {
     background: url("/assets/images/email-pattern.png");
 }
 
+.wrapper {
+    width:1000px;
+    margin:0 auto;
+    position:relative;
+  }
+
+aside {
+    width:180px;
+    padding: 30px 30px 30px 30px;
+    float: left;
+    text-align: center;
+    background: #fbfbfb;
+    border-radius: 3px;
+    border: 1px solid #cbcbcb;
+    box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
+}
+
+section {
+    width:690px;
+    padding: 30px 30px 30px 30px;
+    margin: 10px 10px 10px 250px;
+    background: #fbfbfb;
+    border-radius: 3px;
+    border: 1px solid #cbcbcb;
+    box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
+}
+
 footer {
     text-align: center;
     width: auto;
@@ -91,4 +118,8 @@ footer {
     padding-bottom: 30px;
     background-color: #b9c5b3;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+}
+
+img {
+    max-width: 100%;
 }

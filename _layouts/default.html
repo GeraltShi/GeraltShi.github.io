@@ -8,7 +8,11 @@
   <body>
     {% include navigation.html %}
     <b>[This website is under construction. I am devoted to making a nice portfolio but it takes time.]</b><br>
-    {{ content }}
+    <div class="wrapper">
+        {% include aside.html %}
+        <section>{{ content }}</section>
+    </div>
+    
   </body>
   <footer>
         © 2019 Shi Shi All Rights Reserved.
