@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="65 142 681 296" width="681" height="296">
+  <defs>
+    <font-face font-family="Ubuntu" font-size="16" panose-1="2 11 5 4 3 6 2 3 2 4" units-per-em="1000" underline-position="-123" underline-thickness="79" slope="0" x-height="520" cap-height="693" ascent="932.0068" descent="-188.99536" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Ubuntu"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#b1001c">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 7 6" markerWidth="7" markerHeight="6" color="#235e00">
+      <g>
+        <path d="M 4.8 0 L 0 -1.8 L 0 1.8 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.2 
+    <dc:date>2019-09-08 11:17:42 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-opacity="1" fill-opacity="1" fill="none" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="65" y="142" width="681" height="296"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="378.5" y="143.5" width="229.5" height="41" fill="white"/>
+        <rect x="378.5" y="143.5" width="229.5" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(383.5 145.552)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="4.214" y="15">Can others close source after </tspan>
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="9.998" y="33.448">changing your source code?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <rect x="244.75" y="227.5" width="164.5" height="41" fill="white"/>
+        <rect x="244.75" y="227.5" width="164.5" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(249.75 229.552)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="6.746" y="15">New code adopting </tspan>
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="13.93" y="33.448">the same license?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="66.5" y="311.5" width="220" height="41" fill="white"/>
+        <rect x="66.5" y="311.5" width="220" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(71.5 313.552)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="31.456" y="15">Requiring additional </tspan>
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="2.872" y="33.448">documents for the changes?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <rect x="584.75" y="227.5" width="159.5" height="41" fill="white"/>
+        <rect x="584.75" y="227.5" width="159.5" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(589.75 229.552)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="6.038" y="15">Copyright notice in </tspan>
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="1.51" y="33.448">every files changed?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <rect x="384.3125" y="311.5" width="217.875" height="41" fill="white"/>
+        <rect x="384.3125" y="311.5" width="217.875" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(389.3125 313.552)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="4.4415" y="15">Advertising with your name </tspan>
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="21.7455" y="33.448">in derivative software?</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="66.5" y="395.5" width="71" height="41" fill="white"/>
+        <rect x="66.5" y="395.5" width="71" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(71.5 406.776)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="12.316" y="15">LGPL</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <rect x="179" y="395.5" width="71" height="41" fill="white"/>
+        <rect x="179" y="395.5" width="71" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(184 406.776)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="4.636" y="15">Mozilla</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <rect x="291.5" y="395.5" width="71" height="41" fill="white"/>
+        <rect x="291.5" y="395.5" width="71" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(296.5 406.776)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="16.108" y="15">GPL</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <rect x="404" y="395.5" width="71" height="41" fill="white"/>
+        <rect x="404" y="395.5" width="71" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(409 406.776)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="15.396" y="15">BSD</tspan>
+        </text>
+      </g>
+      <g id="Graphic_11">
+        <rect x="516.5" y="395.5" width="71" height="41" fill="white"/>
+        <rect x="516.5" y="395.5" width="71" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(521.5 406.776)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="16.86" y="15">MIT</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <rect x="629" y="395.5" width="71" height="41" fill="white"/>
+        <rect x="629" y="395.5" width="71" height="41" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(634 406.776)" fill="black">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="black" x="3.548" y="15">Apache</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <path d="M 493.25 185.5 L 493.25 206 L 327 206 L 327 213.6" marker-end="url(#FilledArrow_Marker)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_14">
+        <path d="M 493.25 185.5 L 493.25 206 L 664.5 206 L 664.5 213.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_15">
+        <path d="M 327 269.5 L 327 332 L 300.4 332" marker-end="url(#FilledArrow_Marker)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_16">
+        <line x1="327" y1="269.5" x2="327" y2="381.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_17">
+        <path d="M 176.5 353.5 L 176.5 374 L 102 374 L 102 381.6" marker-end="url(#FilledArrow_Marker)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_18">
+        <path d="M 176.5 353.5 L 176.5 374 L 214.5 374 L 214.5 381.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_19">
+        <path d="M 664.5 269.5 L 664.5 332 L 616.0875 332" marker-end="url(#FilledArrow_Marker)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_20">
+        <line x1="664.5" y1="269.5" x2="664.5" y2="381.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_21">
+        <path d="M 493.25 353.5 L 493.25 374 L 439.5 374 L 439.5 381.6" marker-end="url(#FilledArrow_Marker)" stroke="#b1001c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_22">
+        <path d="M 493.25 353.5 L 493.25 374 L 552 374 L 552 381.6" marker-end="url(#FilledArrow_Marker_2)" stroke="#235e00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_23">
+        <text transform="translate(328.808 185)" fill="#b1001c">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#b1001c" x="6838974e-19" y="15">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(296.308 309)" fill="#b1001c">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#b1001c" x="6838974e-19" y="15">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(104.308 355.83333)" fill="#b1001c">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#b1001c" x="6838974e-19" y="15">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <text transform="translate(609.0965 309)" fill="#b1001c">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#b1001c" x="6838974e-19" y="15">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <text transform="translate(442.808 355.83333)" fill="#b1001c">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#b1001c" x="6838974e-19" y="15">NO</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(630.648 185)" fill="#235e00">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#235e00" x="17408297e-20" y="15">YES</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(675.648 355.83333)" fill="#235e00">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#235e00" x="17408297e-20" y="15">YES</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(523.148 355.83333)" fill="#235e00">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#235e00" x="17408297e-20" y="15">YES</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(337.148 355.83333)" fill="#235e00">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#235e00" x="17408297e-20" y="15">YES</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <text transform="translate(185.648 355.83333)" fill="#235e00">
+          <tspan font-family="Ubuntu" font-size="16" font-weight="400" fill="#235e00" x="17408297e-20" y="15">YES</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
