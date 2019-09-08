@@ -40,6 +40,6 @@ For more repos unlisted here, please visit my [GitHub](https://github.com/Geralt
 - [CodeZen](http://codezen.rishimohan.me/){:target="_blank"} Generate beautiful images of your source code.
 - [Carbon](https://carbon.now.sh/){:target="_blank"} Another code image generator that supports more languages.
 - [SubPatterns](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} Good sources of patterns for CSS backgrounds.
-- [Inkscape](https://inkscape.org/){:target="_blank"} A professional cross-platform vector graphics editor. Free and open souce.
+- [Inkscape](https://inkscape.org/){:target="_blank"} A professional cross-platform vector graphics editor. Free and open source.
 
 ---
