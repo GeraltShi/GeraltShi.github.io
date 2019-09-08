@@ -1,3 +1,7 @@
+# --- General options --- #
+title: Shi Shi / Electrical and Computer Engineering / UC Davis
+description: Portfolio Page
+
 collections:
   authors:
     output: true
