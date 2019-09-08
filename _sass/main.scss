@@ -78,21 +78,22 @@ h1 {
 body {
     font-family: 'Minion';
     margin: 0px auto;
-    min-width: 700px;
+    //min-width: 700px;
     max-width: 1000px;
     /*background-color: #f6efed;*/
     background: url("/assets/images/email-pattern.png");
 }
 
 .wrapper {
-    width:1000px;
+    width:100%;
     margin:0 auto;
     position:relative;
   }
 
 aside {
-    width:180px;
+    width:15%;
     padding: 30px 30px 30px 30px;
+    margin-left: 20px;
     float: left;
     text-align: center;
     background: #fbfbfb;
@@ -102,7 +103,7 @@ aside {
 }
 
 section {
-    width:690px;
+    width:65%;
     padding: 30px 30px 30px 30px;
     margin: 10px 10px 10px 250px;
     background: #fbfbfb;
@@ -124,4 +125,28 @@ footer {
 img {
     max-width: 100%;
     vertical-align: middle;
+}
+
+//---------------------------Below is css for mobile devices------------------------//
+
+@media only screen and (max-width: 720px) {
+    div.wrapper {
+        width:auto;
+        margin:0;
+      }
+
+    aside {
+        display: none;
+        float: none;
+        width: 0;
+    }
+
+    nav{
+        display: none;
+    }
+
+    section {
+        margin: 10px 10px 10px 10px;
+        width: auto;
+    }
 }
