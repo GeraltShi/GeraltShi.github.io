@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About
+summary: Shi Shi / Electrical and Computer Engineering / UC Davis 
+tags: [shi shi, shishi, ucdavis]
 ---
 # Shi Shi
 

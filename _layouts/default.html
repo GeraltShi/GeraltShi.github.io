@@ -2,6 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="description" content="{{ page.summary | escape }}"> 
+    <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/> 
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     {% include analytics.html %}
