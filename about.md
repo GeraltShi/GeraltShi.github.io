@@ -24,7 +24,7 @@ A block design of ZYNQ platforms and a wrapper for NVDLA and AXI_to_APB bridge a
 - [Iapetos](https://github.com/GeraltShi/Iapetos){:target="_blank"} - An Imitation of the game [the Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/){:target="_blank"} with [cocos2d-x](https://cocos2d-x.org/){:target="_blank"}. *This project is out of technical interest and only used for non-commercial purposes.*
 - [FusionAccel (Undergraduate thesis)](https://arxiv.org/abs/1907.02217){:target="_blank"} - An RTL-level convolutional network accelerator implementation on Xilinx Spartan-6.
 - [Enceladus](https://github.com/GeraltShi/Enceladus){:target="_blank"} - Get Netease music lyrics + timestamps with Python 3.
-- [Gigantes](https://github.com/GeraltShi/Gigantes){:target="_blank"} - A greedy snake game on FPGA with 16x16 LED matrix.
+- [Gigantes](https://github.com/GeraltShi/Gigantes){:target="_blank"} - A greedy snake game on FPGA with a 16x16 LED matrix.
 - [Thor](https://github.com/GeraltShi/Thor){:target="_blank"} - An FPGA based BJT output characteristics test program including FPGA RTL programs and MATLAB GUI.
 
 For more repos unlisted here, please visit my [GitHub](https://github.com/GeraltShi/){:target="_blank"}.
@@ -38,5 +38,6 @@ For more repos unlisted here, please visit my [GitHub](https://github.com/Geralt
 - [CodeZen](http://codezen.rishimohan.me/){:target="_blank"} Generate beautiful images of your source code.
 - [Carbon](https://carbon.now.sh/){:target="_blank"} Another code image generator that supports more languages.
 - [SubPatterns](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} Good sources of patterns for CSS backgrounds.
+- [Inkscape](https://inkscape.org/){:target="_blank"} A professional cross-platform vector graphics editor. Free and open souce.
 
 ---
