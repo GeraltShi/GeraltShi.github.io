@@ -8,7 +8,7 @@ Department of Electrical and Computer Engineering
 
 University of California, Davis
 
-[ssh at ucdavis dot edu](mailto:ssh@ucdavis.edu){:target="_blank"} &#124; [GitHub](https://github.com/GeraltShi/){:target="_blank"} &#124; [CV](/assets/CV_Shi_Shi_US.pdf){:target="_blank"}
+[ssh at ucdavis dot edu](mailto:ssh@ucdavis.edu){:target="_blank"} &#124; [GitHub](https://github.com/GeraltShi/){:target="_blank"} &#124; [CV](/assets/CV_Shi_Shi_US.pdf){:target="_blank"} (PDF)
 
 I am a 1st-year Ph.D. candidate at [UC Davis](https://www.ucdavis.edu){:target="_blank"} advised by [Prof. John Owens](https://ece.ucdavis.edu/~jowens/research.html){:target="_blank"}. I received a B.Eng. in Microelectronics from [Fudan University](http://www.fudan.edu.cn/en/){:target="_blank"}, where I was advised by [Prof. Patrick Chiang](https://eecs.oregonstate.edu/people/chiang-patrick){:target="_blank"}.
 
