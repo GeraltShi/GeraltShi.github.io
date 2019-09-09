@@ -7,8 +7,20 @@
 }
 
 @font-face {
-    font-family: 'Minion';
+    font-family: 'MinionPro';
     src: url("../fonts/MinionPro-Regular.otf");
+}
+
+@font-face {
+    font-family: 'MinionPro';
+    src: url("../fonts/MinionPro-Bold.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'MinionPro';
+    src: url("../fonts/MinionPro-It.otf");
+    font-style: italic;
 }
 
 @font-face {
@@ -76,7 +88,7 @@ h1 {
 }
 
 body {
-    font-family: 'Minion';
+    font-family: 'MinionPro';
     margin: 0px auto;
     //min-width: 700px;
     max-width: 1000px;
@@ -138,10 +150,6 @@ img {
         width:auto;
         margin:0;
       }
-
-    nav{
-        //display: none;
-    }
 
     aside {
         display: none;
