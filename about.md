@@ -22,12 +22,12 @@ I am a 1st-year Ph.D. candidate at [UC Davis](https://www.ucdavis.edu){:target="
 - [Zeus](https://github.com/GeraltShi/Zeus){:target="_blank"} - A hardware implementation from [NVDLA](http://nvdla.org/){:target="_blank"}'s RTL code (small config) to ZYNQ platforms.
 A block design of ZYNQ platforms and a wrapper for NVDLA and AXI_to_APB bridge are implemented.
 - [ZCU104-ChaiDNN](https://github.com/GeraltShi/ZCU104-ChaiDNN){:target="_blank"} - An out-of-the-box implementation of CHaiDNN on Xilinx ZCU104. Sanity run of GoogleNet is passed.
-- [Gaia](https://github.com/GeraltShi/Gaia){:target="_blank"} - I have done ASIC verifications with UVM methodology before. This is a template to generate UVM testbench files with Python 3.
-- [Iapetos](https://github.com/GeraltShi/Iapetos){:target="_blank"} - An Imitation of the game [the Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/){:target="_blank"} with [cocos2d-x](https://cocos2d-x.org/){:target="_blank"}. *This project is out of technical interest and only used for non-commercial purposes.*
+- [Gaia](https://github.com/GeraltShi/Gaia){:target="_blank"} - I did ASIC verifications with UVM methodology before. This is a template to generate UVM testbench files with Python 3.
+- [Iapetos](https://github.com/GeraltShi/Iapetos){:target="_blank"} - An imitation of the game [the Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/){:target="_blank"} with [cocos2d-x](https://cocos2d-x.org/){:target="_blank"}. *This project is out of technical interest and only used for non-commercial purposes.*
 - [FusionAccel (Undergraduate thesis)](https://arxiv.org/abs/1907.02217){:target="_blank"} - An RTL-level convolutional network accelerator implementation on Xilinx Spartan-6.
 - [Enceladus](https://github.com/GeraltShi/Enceladus){:target="_blank"} - Get Netease music lyrics + timestamps with Python 3.
 - [Gigantes](https://github.com/GeraltShi/Gigantes){:target="_blank"} - A greedy snake game on FPGA with a 16x16 LED matrix.
-- [Thor](https://github.com/GeraltShi/Thor){:target="_blank"} - An FPGA based BJT output characteristics test program including FPGA RTL programs and MATLAB GUI.
+- [Thor](https://github.com/GeraltShi/Thor){:target="_blank"} - An FPGA based BJT output characteristics test program including FPGA RTL code and MATLAB GUI.
 
 For more repos unlisted here, please visit my [GitHub](https://github.com/GeraltShi/){:target="_blank"}.
 
@@ -41,5 +41,12 @@ For more repos unlisted here, please visit my [GitHub](https://github.com/Geralt
 - [Carbon](https://carbon.now.sh/){:target="_blank"} Another code image generator that supports more languages.
 - [SubPatterns](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} Good sources of patterns for CSS backgrounds.
 - [Inkscape](https://inkscape.org/){:target="_blank"} A professional cross-platform vector graphics editor. Free and open source.
+- [GB Studio](https://www.gbstudio.dev/){:target="_blank"} A free and easy to use retro adventure game creator for your favorite handheld video game system.
+- [IEEE 754 Calculator](http://weitz.de/ieee/){:target="_blank"} Floating point conversions online (and offline).
+- [MagicaVoxel](https://ephtracy.github.io/){:target="_blank"} A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
+- [Shields.io](https://shields.io/){:target="_blank"} Create badges for repos and projects.
+- [Handbrake](https://handbrake.fr/){:target="_blank"} An opensource video transcoder.
+- [Photomosh](https://photomosh.com/){:target="_blank"} Glitch yo' self.
+- [TinyPNG](https://tinypng.com){:target="_blank"} Compress PNG online with drag & drop.
 
 ---
