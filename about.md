@@ -19,14 +19,19 @@ I am a 1st-year Ph.D. candidate at [UC Davis](https://www.ucdavis.edu){:target="
 *I prefer to use names in myths for repos.*
 
 - [ToF Gesture Capturing](https://www.youtube.com/watch?v=ijJqxU2ieFg){:target="_blank"} - An FPGA based gesture capturing system with ToF components.
-<p><iframe width="460" height="255" src="https://www.youtube.com/watch?v=ijJqxU2ieFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<center><iframe width="460" height="255" src="https://www.youtube.com/embed/ijJqxU2ieFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 - [Zeus](https://github.com/GeraltShi/Zeus){:target="_blank"} - A hardware implementation from [NVDLA](http://nvdla.org/){:target="_blank"}'s RTL code (small config) to ZYNQ platforms.
+<center><img width="460" src="/assets/images/Zeus.png"></center>
 A block design of ZYNQ platforms and a wrapper for NVDLA and AXI_to_APB bridge are implemented.
 - [ZCU104-ChaiDNN](https://github.com/GeraltShi/ZCU104-ChaiDNN){:target="_blank"} - An out-of-the-box implementation of CHaiDNN on Xilinx ZCU104. Sanity run of GoogleNet is passed.
+<center><img width="460" src="/assets/images/CHaiDNN.jpg"></center>
 - [Gaia](https://github.com/GeraltShi/Gaia){:target="_blank"} - I did ASIC verifications with UVM methodology before. This is a template to generate UVM testbench files with Python 3.
+<center><img width="460" src="/assets/images/Gaia.png"></center>
 - [Iapetos](https://github.com/GeraltShi/Iapetos){:target="_blank"} - An imitation of the game [the Binding of Isaac](https://store.steampowered.com/app/113200/The_Binding_of_Isaac/){:target="_blank"} with [cocos2d-x](https://cocos2d-x.org/){:target="_blank"}. *This project is out of technical interest and only used for non-commercial purposes.*
+<center><img width="460" src="/assets/images/Iapetos.png"></center>
 - [FusionAccel (Undergraduate thesis)](https://arxiv.org/abs/1907.02217){:target="_blank"} - An RTL-level convolutional network accelerator implementation on Xilinx Spartan-6.
 - [Enceladus](https://github.com/GeraltShi/Enceladus){:target="_blank"} - Get Netease music lyrics + timestamps with Python 3.
+<center><img width="460" src="/assets/images/Enceladus.png"></center>
 - [Gigantes](https://github.com/GeraltShi/Gigantes){:target="_blank"} - A greedy snake game on FPGA with a 16x16 LED matrix.
 - [Thor](https://github.com/GeraltShi/Thor){:target="_blank"} - An FPGA based BJT output characteristics test program including FPGA RTL code and MATLAB GUI.
 
