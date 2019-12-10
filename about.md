@@ -19,6 +19,7 @@ I am a 1st-year Ph.D. candidate at [UC Davis](https://www.ucdavis.edu){:target="
 *I prefer to use names in myths for repos.*
 
 - [ToF Gesture Capturing](https://www.youtube.com/watch?v=ijJqxU2ieFg){:target="_blank"} - An FPGA based gesture capturing system with ToF components.
+<p><iframe width="460" height="255" src="https://www.youtube.com/watch?v=ijJqxU2ieFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 - [Zeus](https://github.com/GeraltShi/Zeus){:target="_blank"} - A hardware implementation from [NVDLA](http://nvdla.org/){:target="_blank"}'s RTL code (small config) to ZYNQ platforms.
 A block design of ZYNQ platforms and a wrapper for NVDLA and AXI_to_APB bridge are implemented.
 - [ZCU104-ChaiDNN](https://github.com/GeraltShi/ZCU104-ChaiDNN){:target="_blank"} - An out-of-the-box implementation of CHaiDNN on Xilinx ZCU104. Sanity run of GoogleNet is passed.
