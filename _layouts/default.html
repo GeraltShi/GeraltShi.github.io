@@ -12,14 +12,35 @@
   </head>
   <body>
     {% include navigation.html %}
-    <center>This website is under construction. I am devoted to making a nice portfolio but it takes time.<br></center>
+    <!-- <center>This website is under construction. I am devoted to making a nice portfolio but it takes time.<br></center> -->
     <div class="wrapper">
-        {% include aside.html %}
-        <section>{{ content }}</section>
+      <div class="sidebar">
+        <img src="/assets/images/avatar.jpg" width="200px">
+        <hr>
+        Mail : <a href="mailto:ssh@ucdavis.edu" target="view_window"><img src="/assets/svg/mail.svg" width="20px"></a><br>
+        
+        GitHub : <a href="https://github.com/GeraltShi/" target="view_window"><img src="/assets/svg/mark-github.svg" width="20px"></a><br>
+        
+        CV : <a href="/assets/CV_Shi_Shi_US.pdf" target="view_window"><img src="/assets/svg/file.svg" width="20px"></a><br>
+      </div>
+      <div class="section">{{ content }}</div>
     </div>
     
   </body>
   <footer>
         © 2020 Shi Shi All Rights Reserved.
   </footer>
+
+  <script>
+    var prevScrollpos = window.pageYOffset;
+    window.onscroll = function() {
+    var currentScrollPos = window.pageYOffset;
+      if (prevScrollpos > currentScrollPos) {
+        document.getElementById("navbar").style.top = "0";
+      } else {
+        document.getElementById("navbar").style.top = "-50px";
+      }
+      prevScrollpos = currentScrollPos;
+    }
+    </script>
 </html>
