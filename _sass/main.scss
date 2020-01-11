@@ -31,10 +31,8 @@
 }
 
 .button { 
-    // background-color: #f6efed;
     border-radius: 2px;
     box-shadow: inset 0px 1px 2px rgba(255,255,255,.5), 0px 1px 1px rgba(0,0,0,.1);
-    // background-color: #FFE788;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -71,7 +69,7 @@ a:visited{
 }
 
 a:hover{
-    color: #b9c5b3;
+    color: #005cc5;
     text-decoration: underline;
 }
 
@@ -84,10 +82,6 @@ h1 {
 
 body {
     font-family: 'Product Sans';
-    // margin: 0px auto;
-    //min-width: 700px;
-    // max-width: 1000px;
-    // margin: 0px 0px 0px 0px;
     background: url("/assets/images/email-pattern.png");
     table {border: none;}
     td {vertical-align: top;}
@@ -100,6 +94,7 @@ body {
     z-index: 2;
     position: fixed;
     top: 0;
+    left: 0;
     width: 100%;
     padding-top: 0px;
     padding-bottom: 5px;
@@ -113,22 +108,18 @@ body {
 
 
 .wrapper {
-    width:100%;
-    align-content: center;
+    width:650px;
     margin:0 auto;
-    max-width: 1000px;
+    position:relative;
   }
 
 .sidebar {
-    height: 70%;
-    // margin-top: 50px;
-    width: 160px;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    overflow-x: hidden;
-    padding: 70px 30px 30px 30px;
-    float: left;
+    // width: 230px;
+    position: fixed;
+    top: 0px;
+    left:50%;
+    padding: 10px 10px 10px 10px;
+    margin-left:-560px;
     text-align: right;
     background: #fbfbfb;
     border-radius: 3px;
@@ -137,12 +128,10 @@ body {
 }
 
 .section {
-    // margin: 0px auto;
-    margin: 0px 0px 0px 240px;
-    width: 70%;
-    position: relative;
-    padding: 70px 30px 30px 30px;
-    // margin: 10px 10px 10px 250px;
+    width:590px;
+    padding: 80px 30px 50px 30px;
+    margin: 0px 0;
+    position:relative;
     background: #fbfbfb;
     border-radius: 3px;
     border: 1px solid #cbcbcb;
@@ -155,8 +144,6 @@ footer {
     position: relative;
     padding-top: 5px;
     padding-bottom: 30px;
-    //background-color: #b15620;
-    //box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
 }
 
 img {
@@ -164,9 +151,22 @@ img {
     vertical-align: middle;
 }
 
+.video_wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
+    }
+    iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }
+    
+  
 //---------------------------Below is css for mobile devices------------------------//
 
-@media print, screen and (max-width: 1000px) {
+@media print, screen and (max-width: 1100px) {
     body {
         word-wrap:break-word;
       }
@@ -188,6 +188,19 @@ img {
     }
 
     h1 {
-        font-size: 24px;
+        font-size: 20px;
     }
+
+    .video_wrapper {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
+        }
+        iframe{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        }
+        
 }

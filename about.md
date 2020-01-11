@@ -19,7 +19,7 @@ I am a 1st-year Ph.D. candidate at [UC Davis](https://www.ucdavis.edu){:target="
 *I prefer to use names in myths for repos.*
 
 - [ToF Gesture Capturing](https://www.youtube.com/watch?v=ijJqxU2ieFg){:target="_blank"} - An FPGA based gesture capturing system with ToF components.
-<center><iframe width="460" height="255" src="https://www.youtube.com/embed/ijJqxU2ieFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><div class="video_wrapper"><iframe width="85%" height="85%" src="https://www.youtube.com/embed/ijJqxU2ieFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></center>
 - [Zeus](https://github.com/GeraltShi/Zeus){:target="_blank"} - A hardware implementation from [NVDLA](http://nvdla.org/){:target="_blank"}'s RTL code (small config) to ZYNQ platforms.
 <center><img width="460" src="/assets/images/Zeus.png"></center>
 A block design of ZYNQ platforms and a wrapper for NVDLA and AXI_to_APB bridge are implemented.
