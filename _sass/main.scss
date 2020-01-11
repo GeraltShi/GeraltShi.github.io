@@ -7,44 +7,46 @@
 }
 
 @font-face {
-    font-family: 'MinionPro';
-    src: url("../fonts/MinionPro-Regular.otf");
+    font-family: 'Product Sans';
+    src: url("../fonts/Product Sans Regular.ttf");
 }
 
 @font-face {
-    font-family: 'MinionPro';
-    src: url("../fonts/MinionPro-Bold.otf");
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: 'MinionPro';
-    src: url("../fonts/MinionPro-It.otf");
+    font-family: 'Product Sans';
+    src: url("../fonts/Product Sans Italic.ttf");
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Blaak';
-    src: url("../fonts/BlaakRegular_PERSONAL.ttf");
+    font-family: 'Product Sans';
+    src: url("../fonts/Product Sans Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Product Sans';
+    src: url("../fonts/Product Sans Bold Italic.ttf");
+    font-style: italic;
+    font-weight: bold;
 }
 
 nav {
-    font-family: 'Futura';
-    padding-top: 30px;
+    font-family: 'Product Sans';
+    font-weight: bold;
+    padding-top: 10px;
     padding-bottom: 5px;
     margin-bottom: 5px;
     text-align: center;
-    //background-color: #fcc003;
-    background: linear-gradient(135deg,#002855, #fcc003);
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    background-color: #fbfbfb;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
 }
 
 .button { 
-    border: 1px solid #dba500;
-    background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
+    // background-color: #f6efed;
     border-radius: 2px;
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #FFE788;
+    box-shadow: inset 0px 1px 2px rgba(255,255,255,.5), 0px 1px 1px rgba(0,0,0,.1);
+    // background-color: #FFE788;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -67,11 +69,13 @@ nav {
       background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
       background-color: #ffeca0;
       color:#333;
+      text-decoration: underline;
     }
 }
 
 a:link{
     color: #b15620;
+    text-decoration: none;
 }
 
 a:visited{
@@ -80,20 +84,24 @@ a:visited{
 
 a:hover{
     color: #b9c5b3;
+    text-decoration: underline;
 }
 
 h1 {
-    font-family: 'Blaak';
+    font-family: 'Product Sans';
+    font-weight: bold;
     font-size: 18px;
+    text-align: center;
 }
 
 body {
-    font-family: 'MinionPro';
+    font-family: 'Product Sans';
     margin: 0px auto;
     //min-width: 700px;
     max-width: 1000px;
-    /*background-color: #f6efed;*/
     background: url("/assets/images/email-pattern.png");
+    table {border: none;}
+    td {vertical-align: top;}
 }
 
 .wrapper {

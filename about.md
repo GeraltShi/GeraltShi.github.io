@@ -39,20 +39,21 @@ For more repos unlisted here, please visit my [GitHub](https://github.com/Geralt
 
 # Some Interesting Websites and Software
 
-- [Cmder(ConEMU)](http://cmder.net/){:target="_blank"} The best third-party console emulator for windows from my observation.
-- [Figlet](http://www.figlet.org/){:target="_blank"} Make your console output cool! And there is a python implementation called [pyfiglet](https://pypi.org/project/pyfiglet/){:target="_blank"}.
-- [MIDI CITY](http://midicity-2000.glitch.me/){:target="_blank"} Old-school Art.
-- [waifu2x](http://waifu2x.udp.jp/){:target="_blank"} Use CNN to improve image quality.
-- [CodeZen](http://codezen.rishimohan.me/){:target="_blank"} Generate beautiful images of your source code.
-- [Carbon](https://carbon.now.sh/){:target="_blank"} Another code image generator that supports more languages.
-- [SubPatterns](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} Good sources of patterns for CSS backgrounds.
-- [Inkscape](https://inkscape.org/){:target="_blank"} A professional cross-platform vector graphics editor. Free and open source.
-- [GB Studio](https://www.gbstudio.dev/){:target="_blank"} A free and easy to use retro adventure game creator for your favorite handheld video game system.
-- [IEEE 754 Calculator](http://weitz.de/ieee/){:target="_blank"} Floating point conversions online (and offline).
-- [MagicaVoxel](https://ephtracy.github.io/){:target="_blank"} A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
-- [Shields.io](https://shields.io/){:target="_blank"} Create badges for repos and projects.
-- [Handbrake](https://handbrake.fr/){:target="_blank"} An opensource video transcoder.
-- [Photomosh](https://photomosh.com/){:target="_blank"} Glitch yo' self.
-- [TinyPNG](https://tinypng.com){:target="_blank"} Compress PNG online with drag & drop.
+| -------: | :----------- |
+| [Cmder(ConEMU)](http://cmder.net/){:target="_blank"} | The best third-party console emulator for windows from my observation. |
+| [Figlet](http://www.figlet.org/){:target="_blank"} | Make your console output cool! And there is a python implementation called [pyfiglet](https://pypi.org/project/pyfiglet/){:target="_blank"}. |
+| [MIDI CITY](http://midicity-2000.glitch.me/){:target="_blank"} | Old-school Art. |
+| [waifu2x](http://waifu2x.udp.jp/){:target="_blank"} | Use CNN to improve image quality. |
+| [CodeZen](http://codezen.rishimohan.me/){:target="_blank"} | Generate beautiful images of your source code. |
+| [Carbon](https://carbon.now.sh/){:target="_blank"} | Another code image generator that supports more languages. |
+| [SubPatterns](https://www.toptal.com/designers/subtlepatterns/){:target="_blank"} | Good sources of patterns for CSS backgrounds. |
+| [Inkscape](https://inkscape.org/){:target="_blank"} | A professional cross-platform vector graphics editor. Free and open source. |
+| [GB Studio](https://www.gbstudio.dev/){:target="_blank"} | A free and easy to use retro adventure game creator for your favorite handheld video game system.
+| [IEEE 754 Calculator](http://weitz.de/ieee/){:target="_blank"} | Floating point conversions online (and offline). |
+| [MagicaVoxel](https://ephtracy.github.io/){:target="_blank"} | A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer. |
+| [Shields.io](https://shields.io/){:target="_blank"} | Create badges for repos and projects. |
+| [Handbrake](https://handbrake.fr/){:target="_blank"} | An opensource video transcoder. |
+| [Photomosh](https://photomosh.com/){:target="_blank"} | Glitch yo' self. |
+| [TinyPNG](https://tinypng.com){:target="_blank"} | Compress PNG online with drag & drop. |
 
 ---
